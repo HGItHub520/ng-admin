@@ -1,0 +1,12 @@
+{
+  "/loan": {
+    "target": "http://106.14.155.167:8081",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/agent": {
+    "target": "http://106.14.155.167:8081",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
